@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Primike
 - 👀 I’m interested in Physics
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on nothing man im in it for the bling bling ling ling
 - 📫 How to reach me
 
 <!---
